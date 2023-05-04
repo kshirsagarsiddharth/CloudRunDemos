@@ -1,0 +1,4 @@
+Flask 
+guicorn 
+google-cloud 
+google-cloud-storage
